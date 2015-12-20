@@ -6,6 +6,7 @@ com.bergerkiller.bukkit.tc.controller.components
 com.bergerkiller.bukkit.tc.controller.type
 com.bergerkiller.bukkit.tc.detector
 com.bergerkiller.bukkit.tc.events
+com.bergerkiller.bukkit.tc.exception
 com.bergerkiller.bukkit.tc.itemanimation
 com.bergerkiller.bukkit.tc.pathfinding
 com.bergerkiller.bukkit.tc.properties
